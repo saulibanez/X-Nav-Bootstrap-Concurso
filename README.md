@@ -14,4 +14,4 @@ Para realizar el ejercicio, debes crear un <i>fork</i> del repositorio del <a hr
 Has de tener un repositorio llamado X-Nav-Bootstrap-Concurso en tu cuenta en GitHub en la rama gh-pages, incluyendo los elementos vía CDN para que se pueda ver la  web resultante.
 
 ## Visualización de la página:
-saulibanez.github.io/X-NAV-Bootstrap-Concurso
+saulibanez.github.io/X-Nav-Bootstrap-Concurso
