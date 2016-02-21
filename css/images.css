@@ -1,0 +1,151 @@
+html, body {
+  background-image: url("../images/sw2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#block2{
+    border:3px solid #A8635A;
+    color:#fff;
+    font-family:Georgia,"Times New Roman",Times,serif;
+    margin:20px 0px;
+    padding:20px;
+}  
+
+#block2 h2{
+    background:#ECD078;
+    color:#542437;
+    font-size:160%;
+    font-style:normal;
+    font-weight:bold;
+    letter-spacing:-1px;
+    line-height:115%;
+    margin-top:5px;
+    padding:0;
+}
+#block2 p.details{
+    background:#542437
+}
+#block2 .date-stamp {
+    background:#FFF;
+    border:1px solid #ECD078;
+    color:#542437;
+    float:left;
+    font-style:italic;
+    height:62px;
+    margin:0 10px;
+    overflow:hidden;
+    padding:0;
+    width:72px;
+}
+#block2 .day {
+    font-size:22px;
+    font-weight:normal;
+    padding:7px 0 0;
+    text-align:center;
+}
+#block2 .month {
+    font-size:11px;
+    padding:2px 0 0;
+    text-align:center;
+    text-transform:uppercase;
+}
+
+h6{
+	font-size: 14px;
+	text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+	font-weight: bold;
+	letter-spacing: 2px;
+	padding-bottom: 5px;
+    margin-left: 175px;
+    width: 100%;
+}
+.info h2, .main .row h2{
+    font-size: 25px;
+    text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-bottom: 1px solid rgba(0, 0, 0,0.1);
+    padding-bottom: 5px;
+}
+
+
+.m_z{
+	width: 30%;
+}
+
+/* POST */
+
+.main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.post {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #999;
+}
+
+.post .post-title a {
+    color: #333;
+}
+
+.post .thumb {
+    margin-right: 10px;
+    width: 40%;
+}
+
+.post .thumb img {
+    width:100%;
+}
+
+/* Carousel*/
+
+.carousel .carousel-inner .item .sfw {
+    border: 2px solid #fff; 
+    width: 53%;
+}
+
+.carousel .carousel-inner .item .call {
+    border: 2px solid #fff; 
+    width: 75%;
+}
+
+.carousel .carousel-inner .item .speak {
+    border: 2px solid #fff; 
+    width: 62%;
+}
+
+.carousel .carousel-inner .item .letter {
+    color: black;
+}
+/* Declare heights because of positioning of img element */
+.carousel .item {
+    height: 500px;
+    background-color: #777;
+}
+
+.carousel-inner > .item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px;
+}
+
+.main .m_zuch{
+    /*CENTRAR LA IMAGEN DE MARK*/
+    margin-left: 200px;
+    width: 100%;
+}
+
+.main .container .row{
+    margin-left: 175px;
+    width: 100%;
+}
